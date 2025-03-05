@@ -8,4 +8,17 @@
 ## This study will expand on previous work in two key ways. First, it will incorporate at least one additional recent dataset to ensure a broader evaluation across different contexts. Second, it will introduce an additional auxiliary task beyond emotion detection to further refine the model’s ability to distinguish abusive language. By integrating multiple related tasks, this approach aims to provide deeper insights into the interplay between emotional expression and abusive content, ultimately leading to more robust and context-aware abuse detection models.
 
 
+# Datasets 
+## Abuse Detection
+### OffensEval 2019 (OffenseEval) - https://huggingface.co/datasets/christophsonntag/OLID
+### Waseem and Hovy 2016 (Waseem&Hovy) - https://github.com/zeeraktalat/hatespeech/tree/master
+## Emotion Detection
+### SemEval 2018 (SemEval18) - https://competitions.codalab.org/competitions/17751#learn_the_details-datasets
+
+
+
+
+
+
+
 
