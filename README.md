@@ -3,8 +3,7 @@
 # Project Title: Abusive Language Detection From Joined Modelling
 
 # Project Abstract
-## This project implements and extends the paper:
-"Joint Modelling of Emotion and Abusive Language Detection" (ACL 2020) by Rajamanickam et al.([Paper Link]([url](https://aclanthology.org/2020.acl-main.394.pdf))).
+This project implements and extends the paper: "Joint Modelling of Emotion and Abusive Language Detection" (ACL 2020) by Rajamanickam et al.([Paper Link]([url](https://aclanthology.org/2020.acl-main.394.pdf))).
 We build multitask models that jointly learn to detect:
 1. Offensive/abusive language
 2. Emotion categories
