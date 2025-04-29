@@ -34,12 +34,9 @@ git clone https://github.com/IceriverCentury/DSCI-498-Project.git
 2. Run the script main.ipynb step by step.
 
 # Models Implemented
-STL (Single Task Learning) for abuse detection
-MTL-Gated Double Encoder (primary contribution of the paper)
-Extended MTL with Irony detection as an additional auxiliary task
-Custom attention layers after LSTM encodings
-Sigmoid activations for binary/multilabel outputs
-BCEWithLogitsLoss for stable training
+- STL (Single Task Learning) for abuse detection
+- MTL-Gated Double Encoder (primary contribution of the paper)
+- Extended MTL with Irony detection as an additional auxiliary task
 
 # Future Extensions
 1. Add contrastive pretraining between abusive and figurative representations.
