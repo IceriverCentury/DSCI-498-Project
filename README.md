@@ -10,12 +10,6 @@ We build multitask models that jointly learn to detect:
 3. Figurative language (e.g., irony)
 The goal is to improve abusive language detection by leveraging emotional and figurative cues through multitask learning.
 
-Task | Dataset | Source
-Abuse Detection | OffensEval-2019 (OLID) | Offensive tweet classification
-Emotion Detection | SemEval-2018 Task 1 | Emotion intensity classification
-Irony Detection | SemEval-2018 Task 3 | Irony detection in tweets
-Optional Additional Abuse Dataset | HateXplain | Multilabel hate speech and offense
-
 # Datasets 
 Task | Dataset | Source
 - Abuse Detection | OffensEval-2019 (OLID) | Offensive tweet classification
