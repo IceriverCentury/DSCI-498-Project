@@ -31,7 +31,6 @@ You can install all required packages via pip:
 # ⚙️ How to Run
 1. Clone the Repo
 git clone https://github.com/IceriverCentury/DSCI-498-Project.git
-cd your-repo-name
 2. Run the script main.ipynb step by step.
 
 # Models Implemented
