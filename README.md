@@ -19,21 +19,21 @@ Optional Additional Abuse Dataset | HateXplain | Multilabel hate speech and offe
 
 # Datasets 
 Task | Dataset | Source
-Abuse Detection | OffensEval-2019 (OLID) | Offensive tweet classification
-Emotion Detection | SemEval-2018 Task 1 | Emotion intensity classification
-Irony Detection | SemEval-2018 Task 3 | Irony detection in tweets
-Optional Additional Abuse Dataset | HateXplain | Multilabel hate speech and offense
+- Abuse Detection | OffensEval-2019 (OLID) | Offensive tweet classification
+- Emotion Detection | SemEval-2018 Task 1 | Emotion intensity classification
+- Irony Detection | SemEval-2018 Task 3 | Irony detection in tweets
+- Optional Additional Abuse Dataset | HateXplain | Multilabel hate speech and offense
 We preprocessed all datasets into two columns: "text" and "label", tokenized them, padded embeddings, and aligned them for model input.
 
 
 # Required Packages
 You can install all required packages via pip:
-pip install torch torchvision torchaudio
-pip install scikit-learn
-pip install pandas
-pip install matplotlib
-pip install datasets
-pip install tqdm
+- pip install torch torchvision torchaudio
+- pip install scikit-learn
+- pip install pandas
+- pip install matplotlib
+- pip install datasets
+- pip install tqdm
 
 # ⚙️ How to Run
 1. Clone the Repo
